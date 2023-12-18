@@ -1,0 +1,5 @@
+filename="C:/Users/manikanta.maripi/Desktop/terraform/day1/day1-4/pets.txt"
+content="we love pets"
+prefix="Miss"
+lenght="2"
+separator="-"
